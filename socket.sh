@@ -1,2 +1,2 @@
-php server.php &
+php src/server.php &
 exec "$@"
